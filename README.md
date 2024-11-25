@@ -67,7 +67,7 @@ File Not Found (tasks.json):
 If tasks.json is not found when the app starts, the app will create a new empty list. The file will be automatically created when tasks are added.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 # Contributing
 Feel free to fork this project and create pull requests for bug fixes or new features. If you have suggestions for improvement, please open an issue in the repository.

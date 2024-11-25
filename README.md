@@ -11,9 +11,11 @@ View Tasks: Users can view all tasks with their description, deadline, and statu
 
 # Persistence: 
 All tasks are saved to a tasks.json file, ensuring the data persists between sessions.
+
 # Requirements
 Python: Version 3.x or higher
 Tkinter: Tkinter comes pre-installed with Python. If it's missing, it can be installed separately.
+
 # Installation
 Install Python:
 
@@ -22,7 +24,7 @@ Ensure Tkinter is Installed: Tkinter is the standard Python library for creating
 
 bash
 Copy code
-pip install tk
+'''pip install tk'''
 Download the Application:
 
 Download or clone this repository to your local machine.
